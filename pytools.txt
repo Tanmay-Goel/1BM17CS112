@@ -1,0 +1,31 @@
+Python framework for Web Development:
+
+Django
+TurboGears
+Numpy
+Pandas
+Matplotlib
+
+
+Python libraries for ML:
+
+Numpy
+TensorFlow
+Scipy
+Scikit-learn
+Theano
+
+
+Python libraries for Gaming:
+
+Pygame
+Pyganim
+Albow
+OcempGUI
+pgu
+
+
+
+
+
+
