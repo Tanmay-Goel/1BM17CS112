@@ -1,0 +1,43 @@
+Python framework for Web Development:
+
+Django
+TurboGears
+Numpy
+Pandas
+Matplotlib
+
+
+Python libraries for ML:
+
+Numpy
+TensorFlow
+Scipy
+Scikit-learn
+Theano
+
+
+Python libraries for Gaming:
+
+Pygame
+Pyganim
+Albow
+OcempGUI
+pgu
+
+-------------------------------------------------------
+Differnt Domains of Python Application:
+
+Web and Internet Development
+Education
+Scientific and Numeric
+Desktop GUIs
+Software Development
+Bussiness Applications
+
+
+
+
+
+
+
+
